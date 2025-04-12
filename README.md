@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzRodyyy
 - 👀 I’m interested in Game Development, Cybersecurity, and Artificial Intelligence.
-- 🌱 I’m currently learning Data Structures and Algorithms (Full Sail University)
+- 🌱 I’m currently enrolled in Project and Portfolio II: Game Development (Full Sail University)
 - 💞️ I’m looking to collaborate on various different projects
 - 📫 How to reach me @rodydevs on Discord
 - 😄 Pronouns: idc
